@@ -1,4 +1,4 @@
-[![github.com/zzwx/current](./doc/gobadge.svg)](https://pkg.go.dev/github.com/zzwx/current)
+[![https://github.com/zzwx/current](./doc/gobadge.svg)](https://pkg.go.dev/github.com/zzwx/current)
 
 An attempt to make modules with resource files act as if they are embedded instead of actually embedding resources. Works in environments when it's known that the module will be built from source.
 
